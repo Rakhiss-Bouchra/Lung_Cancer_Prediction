@@ -1,8 +1,9 @@
 # Chest_Cancer_Prediction__Python
-L’objectif de ce projet est de créer un modèle de Deep Learning capable de repérer si une image représente le scanner d’une personne normal ou bien une personne attaquée par l’un des 3 types de cancer: l'adénocarcinome, le carcinome à grandes cellule et le carcinome épidermoïde.
+The goal of this project is to create a Deep Learning model that can detect whether an image represents a healthy person's scan or a person attacked by one of the three types of cancer: adenocarcinoma, large cell carcinoma, and squamous cell carcinoma.
 
 # Dataset
-The images are in jpg or png./
+The images are in jpg or png.
+
 Data contain 3 chest cancer types which are Adenocarcinoma,Large cell carcinoma, Squamous cell carcinoma , and 1 folder for the normal cell.
 Data folder is the main folder that contain all the step folders.
 Inside Data folder are test , train , valid.
