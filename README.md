@@ -13,7 +13,8 @@ training set is 70%
 testing set is 20%
 validation set is 10%
 
-## Download link: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
+## Download link:
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
 # Librairies
 - TensorFlow: est une bibliothèque de calcul numérique open-source pour le machine learning basé sur les réseaux neuronaux. Elle dispose d’un écosystème flexible d’outils et de ressources communautaires.
