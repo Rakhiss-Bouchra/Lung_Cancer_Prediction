@@ -1,4 +1,4 @@
-# Chest_Cancer_Prediction__Python
+# Lung_Cancer_Prediction__Python
 The goal of this project is to create a Deep Learning model that can detect whether an image represents a healthy person's scan or a person attacked by one of the three types of cancer: adenocarcinoma, large cell carcinoma, and squamous cell carcinoma.
 
 # Dataset
